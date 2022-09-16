@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JokesAPI/static/css/main.073c9b0a.css",
+    "main.js": "/JokesAPI/static/js/main.ac238b52.js",
+    "static/js/787.9657ecc2.chunk.js": "/JokesAPI/static/js/787.9657ecc2.chunk.js",
+    "static/media/logo.svg": "/JokesAPI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JokesAPI/index.html",
+    "main.073c9b0a.css.map": "/JokesAPI/static/css/main.073c9b0a.css.map",
+    "main.ac238b52.js.map": "/JokesAPI/static/js/main.ac238b52.js.map",
+    "787.9657ecc2.chunk.js.map": "/JokesAPI/static/js/787.9657ecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac238b52.js"
+  ]
+}
