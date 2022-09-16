@@ -44,7 +44,8 @@ const Dashboard = () => {
                 <input type="text" onChange={search}/>
                 <input type="submit" /><br />
                 <h1>{random.value}</h1>
-                <button onClick={getrandom}>Random jokes</button>
+                <button onClick={getrandom}>Random jokes</button> 
+                {/* This is the only working piece of code */}
             </form>
         </div>
     )
